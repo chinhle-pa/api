@@ -21,6 +21,12 @@
                     "policyNo": "23rrw38643232",
                     "groupPlanName": "Group plan name",
                     "policyTypeName": "Policy type name"
+                },{
+                    "memberPolicyId": 1233456,
+                    "isTpa": true,
+                    "policyNo": "23rrw38643232",
+                    "groupPlanName": "Group plan name",
+                    "policyTypeName": "Policy type name"
                 }]
             }
         ],
