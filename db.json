@@ -15,13 +15,13 @@
                 "isTermsRequired": false,
                 "error": "",
                 "isAllowPin": false,
-                "userPolicies": {
+                "userPolicies": [{
                     "memberPolicyId": 1233455,
                     "isTpa": true,
                     "policyNo": "23rrw38643232",
                     "groupPlanName": "Group plan name",
                     "policyTypeName": "Policy type name"
-                }
+                }]
             }
         ],
   "posts": [
