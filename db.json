@@ -1,4 +1,31 @@
 {
+  "public": [
+        "singin": [
+            {
+                "profile": {
+                    "id": 121231,
+                    "exId": 121231,
+                    "firstName": "Donald",
+                    "lastName": "Trump",
+                    "userName": "donaldtrump",
+                    "role": "member",
+                    "level": "member",
+                    "isCoordinator": true
+                },
+                "token": "asfsfgsdfgsdrrfdsgeae2rrerwe1",
+                "isTermsRequired": false,
+                "error": "",
+                "isAllowPin": false,
+                "userPolicies": {
+                    "memberPolicyId": 1233455,
+                    "isTpa": true,
+                    "policyNo": "23rrw38643232",
+                    "groupPlanName": "Group plan name",
+                    "policyTypeName": "Policy type name"
+                }
+            }
+        ]
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
