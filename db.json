@@ -1,6 +1,5 @@
 {
-  "public": [
-        "singin": [
+  "singin": [
             {
                 "profile": {
                     "id": 121231,
@@ -24,8 +23,7 @@
                     "policyTypeName": "Policy type name"
                 }
             }
-        ]
-  ],
+        ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
